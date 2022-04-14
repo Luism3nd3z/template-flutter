@@ -35,7 +35,7 @@ tasks:
       if [[ -z "$APPETIZE_API_TOKEN" ]]; then
           echo "Appetize API token not set. Run:"
           echo ""
-          echo "    gp env APPETIZE_API_TOKEN=your_token"
+          echo "    gp env APPETIZE_API_TOKEN=tok_9bt3eztkyrxrpb71uvcmu76prr"
           echo ""
           echo "and restart this workspace in order to get an app preview."
           echo ""
